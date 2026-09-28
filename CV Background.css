@@ -1,0 +1,18 @@
+.bg1 {
+    background-image: url("https://imgs.search.brave.com/ILBsohHN1VP90ce1jeszUfj5SFT5f6Jcm-jOEDW696Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMDcv/Mjg2LzEyOC9zbWFs/bC9hYnN0cmFjdC1i/YWNrZ3JvbmQtd2l0/aC1zb2Z0LWdyYWRp/ZW50LWNvbG9yLWFu/ZC1keW5hbWljLXNo/YWRvdy1iYWNrZ3Jv/dW5kLWZvci13YWxs/cGFwZXItZXBzLTEw/LXZlY3Rvci5qcGc");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 5px;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.blue-text {
+    color: blue;
+}
+
+.green-text {
+    color: green;
+}
+
